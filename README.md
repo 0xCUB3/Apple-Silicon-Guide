@@ -1240,7 +1240,7 @@ You must also have supported devices. Apple says supported devices include:
 
 [Back to the Top](#table-of-contents)
 
-Stage Manager is an iPadOS feature that provides better support for external displays. Stage Manager allows the iPad Air(**M1 chip**) and iPad Pro(**M1 chip**):
+Stage Manager is an iPadOS feature that provides better support for external displays. Stage Manager allows the iPad Air(**M1 chip**) and iPad Pro(**M1/M2 chip**):
 
   *  **Fast access to windows and apps**: The windows of the apps you’re working in are displayed prominently in the center, and other apps are arranged on the left side in order of recent use.
   *  **Resizable windows**: Resize your windows to make them the perfect size for your task.
